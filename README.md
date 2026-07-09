@@ -1,4 +1,4 @@
-# Mod_Compatibility_EpicFight_Guard_Villaagers
+# Mod_Compatibility_EpicFight_Guard_Villagers
 
 source patch mod
 
