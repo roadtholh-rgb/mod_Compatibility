@@ -1,0 +1,10 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="epic_fight_villages_guard"
+version="1.1"
+displayName="Epic Fight - Guard Villagers"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/epic-fight-guard-villagers"
+authors="Arolplayer"
