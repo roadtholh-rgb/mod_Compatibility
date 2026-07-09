@@ -1,0 +1,61 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="epic_fight_villages_guard"
+version="20.14.2"
+displayName="Epic Fight - Guard Villagers"
+displayURL="https://www.curseforge.com/minecraft/mc-mods/epic-fight-guard-villagers"
+authors="Arolplayer"
+
+description='''
+Epic Fight compatibility addon for Guard Villagers.
+
+=========================
+IMPORTANT
+=========================
+Required Resource Pack:
+
+GuardEpicTexturesRewritten.zip
+
+Place it in:
+.minecraft/resourcepacks/
+
+Enable it before entering a world.
+
+Without the resource pack, Guard Villagers models
+will render incorrectly (misaligned / distorted).
+'''
+
+#
+# Minecraft
+#
+[[dependencies.epic_fight_villages_guard]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1]"
+ordering="NONE"
+side="BOTH"
+
+#
+# Epic Fight
+#
+
+[[dependencies.epic_fight_villages_guard]]
+modId="epicfight"
+mandatory=true
+versionRange="[20.9.7,)"
+ordering="AFTER"
+side="BOTH"
+
+#
+# Guard Villagers
+#
+
+[[dependencies.epic_fight_villages_guard]]
+modId="guardvillagers"
+mandatory=true
+versionRange="[1.6.7]"
+ordering="AFTER"
+side="BOTH"
