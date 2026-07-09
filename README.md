@@ -25,13 +25,13 @@ Enable it from the Resource Packs menu before entering a world.
 
 If guards appear with stretched, misplaced, or corrupted body parts, the resource pack is missing or disabled.
 
-## Link 
+### Link 
 
-### Mods
+#### Mods
 
 Epic Fight Guard Villagers : https://www.curseforge.com/minecraft/mc-mods/epic-fight-guard-villagers
 
-### ResourcePack
+#### ResourcePack
 
 GuarEpicTexture.zip : https://www.curseforge.com/minecraft/data-packs/guard-epic-rewriten
 
@@ -42,7 +42,7 @@ This patch removes unnecessary dependency requirements while keeping the addon c
 ## Credits
 
 Original Mod:
-- Arolplayer
+- Arolplayer : https://www.curseforge.com/members/arolplayer2025/projects
 
 This repository only provides documentation and compatibility information.
 No original mod files are redistributed.
